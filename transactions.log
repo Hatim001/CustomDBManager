@@ -1,0 +1,20 @@
+50797ef1-7df3-446b-9dba-60d21b850a46 | 2023-10-27T23:32:03.926939 | hatim | Ecommerce | inventory | select * from inventory 
+6bfa41d4-b7fc-494d-b8ef-efbf9acb2997 | 2023-10-27T23:47:22.840558 | hatim | null | null | USER LOGIN 
+689e9dd1-18f4-437b-a351-12fc1f8db47f | 2023-10-27T23:48:06.348215 | hatim | Ecommerce | stock | update stock set quantity=11 where id=2 
+18d50725-962c-4783-a745-7628d01a1668 | 2023-10-27T23:48:26.502004 | hatim | Ecommerce | stock | select * from stock 
+f1e6566f-5625-4ac5-b2e0-cbb7c4ac5e62 | 2023-10-27T23:49:31.896714 | hatim | null | null | USER LOGIN 
+64b651a7-816d-4d9f-a97b-e32fe0ef0fbc | 2023-10-27T23:51:29.499696 | hatim | Ecommerce | stock | select * from stock 
+8bd3c668-adc4-4617-a2a2-b7080f86b830 | 2023-10-27T23:52:30.416137 | hatim | Ecommerce | stock | update stock set quantity=10 where id=2 
+5c5ef194-ab42-4218-8488-6706f00c16df | 2023-10-27T23:52:37.443673 | hatim | Ecommerce | stock | select * from stock 
+886f38f9-4adb-44e5-bf0e-8eae17bfecf2 | 2023-10-28T00:00:25.203782 | hatim1 | null | null | USER REGISTER 
+ad608e7e-1f6b-432c-aa0d-50662193e552 | 2023-10-28T00:03:34.217968 | hatim1 | null | null | USER LOGIN 
+fe1bac42-f779-47e0-b86f-f5e373fc092d | 2023-10-28T05:23:18.477185 | hatim | null | null | USER LOGIN 
+c611c012-7126-489c-8cb4-d1d67c5d1e48 | 2023-10-28T05:32:40.879281 | hatim | null | null | USER LOGIN 
+10d15a32-c77e-485e-80a0-dcf12cceaf7c | 2023-10-28T05:34:04.843249 | hatim | Ecommerce | inventory | select * from inventory 
+9c1cb2bc-3a31-4806-b964-6fdbeb6f6148 | 2023-10-28T05:34:29.568686 | hatim | Ecommerce | inventory | update inventory set name=banana where id=3 
+01cc9ee0-62cc-4cb1-8df4-3d16c6c0ce57 | 2023-10-28T05:58:39.145686 | hatim | null | null | USER LOGIN 
+ae327e67-4737-4b67-8f2d-400120657a3c | 2023-10-28T06:21:39.703921 | hatim | null | null | USER LOGIN 
+04127118-66a0-46ad-8cd7-3d8a1b86c3d3 | 2023-10-28T06:22:43.218862 | hatim | Ecommerce | inventory | select * from inventory 
+a186b418-453b-4b58-8dd0-75e55bfbd559 | 2023-10-28T06:23:05.261701 | hatim | Ecommerce | inventory | update inventory set name=banana where id=3 
+099ca6d7-0fb2-4326-b618-076189aa0490 | 2023-10-28T06:25:19.321996 | hatim | null | null | USER LOGIN 
+6f8c9b49-93fc-420c-91d1-fd5fab4af2cd | 2023-10-28T06:26:59.585743 | hatim | Ecommerce | inventory | update inventory set name=banana where id=3 

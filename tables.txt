@@ -1,0 +1,11 @@
+startTable - inventory
+meta: id int, name varchar
+3,banana
+2, mangoes
+8, apples
+endTable - inventory
+startTable - stock
+meta: id int, inventory_id int, quantity int
+2,3,10
+8, 4, 15
+endTable - stock
